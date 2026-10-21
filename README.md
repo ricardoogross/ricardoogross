@@ -4,9 +4,9 @@ I'm a student at Louisiana Christian University learning cybersecurity. I learn 
 
 #### Building
 
-🌊 **[Lowtide](https://github.com/grosssec/lowtide)**: know what's safe to spend. A day-by-day forecast of your balance, built for paychecks that change.
+🌊 **[Lowtide](https://github.com/ricardoogross/lowtide)**: know what's safe to spend. A day-by-day forecast of your balance, built for paychecks that change.
 React · TypeScript · Cloudflare Workers + D1 · passkeys · Web Push from the RFCs
-[Website](https://lowtide.ricardogross.com) · [Live demo](https://demo.ricardogross.com) · [How it's built](https://github.com/grosssec/lowtide/blob/main/docs/architecture.md) · [Security write-up](https://github.com/grosssec/lowtide/blob/main/SECURITY.md)
+[Website](https://lowtide.ricardogross.com) · [Live demo](https://demo.ricardogross.com) · [How it's built](https://github.com/ricardoogross/lowtide/blob/main/docs/architecture.md) · [Security write-up](https://github.com/ricardoogross/lowtide/blob/main/SECURITY.md)
 
 The security side, which is the part I'm studying most: passkey-only sign-in with signed, stateless challenges, bank emails accepted only when DMARC passes, no bank credentials anywhere, and a written threat model with three review rounds.
 
